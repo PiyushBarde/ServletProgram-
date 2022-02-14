@@ -11,7 +11,8 @@
 
   <name>Servlet Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>http://java.sun.com/dtd/web-app_2_3.dtd
+  </url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
